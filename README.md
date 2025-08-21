@@ -4,7 +4,7 @@ Um projeto simples de **carrinho de compras** feito com **HTML, CSS e JavaScript
 
 ---
 
-## 🚀 Funcionalidades
+## ✨ Funcionalidades
 - Adicionar produtos com quantidade personalizada ao carrinho.  
 - Cálculo automático do valor total.  
 - Botão **Limpar** que zera o carrinho e o total.  
